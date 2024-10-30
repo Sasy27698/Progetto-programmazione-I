@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1550757873 source:c:\users\sasy1\onedrive\desktop\nuova cartella\gioco del sette e mezzo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1550757733 source:c:\users\sasy1\onedrive\desktop\nuova cartella\gioco del sette e mezzo\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1550757733 c:\users\sasy1\onedrive\desktop\nuova cartella\gioco del sette e mezzo\header.h
+
+1550757873 source:c:\users\sasy1\onedrive\desktop\progetto de rosa salvatore\gioco del sette e mezzo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1550768919 c:\users\sasy1\onedrive\desktop\progetto de rosa salvatore\gioco del sette e mezzo\header.h
+
+1550768919 source:c:\users\sasy1\onedrive\desktop\progetto de rosa salvatore\gioco del sette e mezzo\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+

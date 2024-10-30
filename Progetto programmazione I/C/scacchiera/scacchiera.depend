@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1550768430 source:c:\users\sasy1\onedrive\desktop\nuova cartella\progetto scacchi\nuova cartella\esempio gioco 7 e mezzo\scacchiera\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
+1550768421 source:c:\users\sasy1\onedrive\desktop\nuova cartella\progetto scacchi\nuova cartella\esempio gioco 7 e mezzo\scacchiera\lib.c
+	"header.h"
+
+1550768561 c:\users\sasy1\onedrive\desktop\nuova cartella\progetto scacchi\nuova cartella\esempio gioco 7 e mezzo\scacchiera\header.h
+
+1550768421 source:c:\users\sasy1\onedrive\desktop\progetto de rosa salvatore\scacchiera\lib.c
+	"header.h"
+
+1550770232 c:\users\sasy1\onedrive\desktop\progetto de rosa salvatore\scacchiera\header.h
+
+1550768430 source:c:\users\sasy1\onedrive\desktop\progetto de rosa salvatore\scacchiera\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"header.h"
+
